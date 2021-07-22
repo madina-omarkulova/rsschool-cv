@@ -1,8 +1,8 @@
 # **Madina Omarkulova**
 
 ----------------------------------------------
-:e-mail: omarkulovamd@gmail.com      :telephone_receiver: +77022222426      :round_pushpin: Nur-Sultan, Kazakhstan
-:link: [LinkedIn: madina-omarkulova](https://www.linkedin.com/in/madina-omarkulova/)
+<pre>📧 omarkulovamd@gmail.com      📞 +77022222426      📍 Nur-Sultan, Kazakhstan</pre>
+🔗 [LinkedIn: madina-omarkulova](https://www.linkedin.com/in/madina-omarkulova/)
 
 ----------------------------------------------------------------------------------
 A motivated computer science student looking forward to earning the position of Software Engineer in a growth-oriented organization where I can use my skills to the advantage of the organization while upgrading my professional skills.
@@ -10,10 +10,10 @@ A motivated computer science student looking forward to earning the position of 
 **Education**
 --------------
 
-2019-2023 (expected)
+2019-2023 (expected)\
                 **BSc, Computer Science**; Nazarbayev University (Nur-Sultan, Kazakhstan)
 
-2018-2019
+2018-2019\
                 **NU Foundation Program**; Nazarbayev University (Nur-Sultan, Kazakhstan)
 
 **Languages**
