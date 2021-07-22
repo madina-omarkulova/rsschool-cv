@@ -3,8 +3,8 @@
 ----------------------------------------------
 :e-mail: omarkulovamd@gmail.com      :telephone_receiver: +77022222426      :round_pushpin: Nur-Sultan, Kazakhstan
 :link: [LinkedIn: madina-omarkulova](https://www.linkedin.com/in/madina-omarkulova/)
-----------------------------------------------
 
+----------------------------------------------------------------------------------
 A motivated computer science student looking forward to earning the position of Software Engineer in a growth-oriented organization where I can use my skills to the advantage of the organization while upgrading my professional skills.
 
 **Education**
@@ -26,10 +26,10 @@ A motivated computer science student looking forward to earning the position of 
 **Skills**
 -------------
 _Programming Languages_\
-C, C++,  Python, Golang, HTML, CSS\
+C, C++,  Python, Golang, HTML, CSS
 
 _Operating Systems_\
-Microsoft Windows 10, macOS, Linux\
+Microsoft Windows 10, macOS, Linux
 
 _Soft Skills_\
 Communication, Problem Solving, Teamwork, Flexibility, Analytical Skills
