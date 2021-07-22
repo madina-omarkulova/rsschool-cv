@@ -21,7 +21,7 @@ A motivated computer science student looking forward to earning the position of 
 *Russian* :     Native speaker\
 *Kazakh* :      Native speaker\
 *English* :     Excellent conversational and written skills\
-*Turkish* :     Limited conversational and written skills\
+*Turkish* :     Limited conversational and written skills
 
 **Skills**
 -------------
