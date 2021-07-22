@@ -1,5 +1,5 @@
 # **Madina Omarkulova**
-=====================
+
 ----------------------------------------------
 :e-mail: omarkulovamd@gmail.com      :telephone_receiver: +77022222426      :round_pushpin: Nur-Sultan, Kazakhstan
 :link: [LinkedIn: madina-omarkulova](https://www.linkedin.com/in/madina-omarkulova/)
@@ -11,23 +11,25 @@ A motivated computer science student looking forward to earning the position of 
 --------------
 
 2019-2023 (expected)
-:   **BSc, Computer Science**; Nazarbayev University (Nur-Sultan, Kazakhstan)
+                **BSc, Computer Science**; Nazarbayev University (Nur-Sultan, Kazakhstan)
 
 2018-2019
-:   **NU Foundation Program**; Nazarbayev University (Nur-Sultan, Kazakhstan)
+                **NU Foundation Program**; Nazarbayev University (Nur-Sultan, Kazakhstan)
 
 **Languages**
 -------------
-*Russian* :     Native speaker
-*Kazakh* :      Native speaker
-*English* :     Excellent conversational and written skills
-*Turkish* :     Limited conversational and written skills
+*Russian* :     Native speaker\
+*Kazakh* :      Native speaker\
+*English* :     Excellent conversational and written skills\
+*Turkish* :     Limited conversational and written skills\
 
 **Skills**
 -------------
-_Programming Languages_ 
-C, C++,  Python, Golang, HTML, CSS
+_Programming Languages_\
+C, C++,  Python, Golang, HTML, CSS\
 
-_Operating Systems_
-Microsoft Windows 10, macOS, Linux
-_Soft Skills_ : Communication, Problem Solving, Teamwork, Flexibility, Analytical Skills
+_Operating Systems_\
+Microsoft Windows 10, macOS, Linux\
+
+_Soft Skills_\
+Communication, Problem Solving, Teamwork, Flexibility, Analytical Skills
